@@ -17,5 +17,5 @@
 }
 #panel input{
 	display:block;
-	text-align:center;
+	position:relative;
 }
