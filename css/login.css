@@ -9,9 +9,11 @@
 	font-size:18px;
 	background-color:lightgrey;
 	width:300px;
-	text-align:center;
 	margin:auto;
 }
 #panel label{
-	color:red;
+	margin:10px 10px 0px 0px;
+}
+#panel input{
+	margin:10px 10px 0px 0px;
 }
