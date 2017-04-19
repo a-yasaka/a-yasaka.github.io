@@ -13,5 +13,9 @@
 }
 #panel label{
 	display:block;
-	margin:auto;
+	text-align:center;
+}
+#panel input{
+	display:block;
+	text-align:center;
 }
