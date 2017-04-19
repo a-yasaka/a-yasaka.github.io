@@ -12,8 +12,6 @@
 	margin:auto;
 }
 #panel label{
-	margin:10px 10px 0px 0px;
-}
-#panel input{
-	margin:10px 10px 0px 0px;
+	display:block;
+	margin:auto;
 }
