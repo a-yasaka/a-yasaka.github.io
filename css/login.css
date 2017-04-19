@@ -14,8 +14,10 @@
 #panel label{
 	display:block;
 	text-align:center;
+	margin:10px 0 10px 0;
 }
-#panel input{
+#panel div{
 	display:block;
-	position:relative;
+	text-align:center;
+	margin:10px 0 10px 0;
 }
